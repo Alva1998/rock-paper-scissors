@@ -1,0 +1,2 @@
+simple rock paper scissors program that utilizes the terminal. Another version will be called rock-paper-scissors-visualized that has a UI using html and css 
+Will be using node js locally for this utilizing the terminal. 
