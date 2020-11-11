@@ -9,9 +9,6 @@ function computerPlay() {
 //using node 
 console.log('NOW STARTING ROCK PAPER SCISSORS\n');
 
-
-
-
 function getDecision() {
     let decision = false;
     while (decision !== true) {
